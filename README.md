@@ -42,3 +42,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:6a5acd&height=100&section=footer" />
 </p>
+<p align="center">
+  <img src="https://github.com/andreluis001/andreluis001/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
