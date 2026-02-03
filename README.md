@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o André Luís de Sousa Rodrigues
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Backend+Developer+em+Formação;C%23+%7C+.NET+%7C+APIs+%7C+SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Backend+Developer+em+Formação;C%23+%7C+.NET+%7C+APIs+%7C+SQL+JAVA" />
 </p>
 
 ---
