@@ -3,12 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+em+Formação;Estudante+de+ADS;C%23+%7C+.NET+%7C+APIs++%7C+SQL+%7C+JAVA++%7C+PYTHON" />
 </p>
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 
 ## 🌌  Sobre mim
+<div>
+  <img align="right" width="20%%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
  ✨ 19y 
  
