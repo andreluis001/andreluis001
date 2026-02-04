@@ -42,7 +42,7 @@ frontend
 
 
 ## ⚡Ferramentas
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,raspberrypi,ps,vscode,visualstudio,wordpress,postman,stackoverflow)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,raspberrypi,ps,vscode,visualstudio,androidstudio,wordpress,postman,stackoverflow)](https://skillicons.dev)
 
 
 
