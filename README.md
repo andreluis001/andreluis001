@@ -10,14 +10,11 @@
 <div>
   <img align="right" width="20%%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-
- ✨ 19y 
- 
- 🌱 Atualmente concentrado em Python e C#
+  
 
 🎓 **Estudante de Análise e Desenvolvimento de Software - FECAP**
 
-💻 Foco em **desenvolvimento backend**
+💻 Foco em **C#, Java e Python**
 
 📫 andreluiszz0016@gmail.com<a href="mailto:andreluiszz0016@gmail.com">
 
